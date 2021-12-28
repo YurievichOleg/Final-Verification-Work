@@ -4,7 +4,7 @@
 // лучше обойтись исключительно массивами.
 
 
-int[] array = new int[new Random().Next(1,3)];
+int[] array = new int[new Random().Next(1,10)];
 
 void FillArray(int[] col)
 {
